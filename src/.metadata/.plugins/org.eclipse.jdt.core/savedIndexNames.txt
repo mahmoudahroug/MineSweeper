@@ -1,0 +1,2 @@
+INDEX VERSION 1.132+D:\java projects\MineSweeper\src\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
